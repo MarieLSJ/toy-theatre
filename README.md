@@ -1,7 +1,7 @@
-# Toy theatre dataset about its publishers, public collections, and the experiences of Victorians who engaged with it
+# Toy theatre dataset: its publishers, public collections, and the experiences of Victorians who engaged with it
 **By Marie Léger-St-Jean**
 
-Created in May 2020, published in September 2026
+Created in May 2020, edited and published in September 2026
 
 ## Contents ##
 The dataset contains three tables: “[Publishers](#publishers)”, “[Experiences](#experiences)”, and “[Public collections](#public-collections)”.
