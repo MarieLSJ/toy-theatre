@@ -1,4 +1,4 @@
-## Relevant excerpts for recorded experiences without open access URL
+# Relevant excerpts for recorded experiences without open access URL
 
 Five experiences in the sample of 21 recorded experiences come from the following book, only available in [Nineteenth Century Collections Online](https://www.gale.com/primary-sources/nineteenth-century-collections-online) (Gale), which requires an institutional subscription:
 
@@ -13,7 +13,7 @@ This file provides the relevant excerpts for each experience, ordered chronologi
 - [Winston Churchill (1874–1965)](#winston-churchill-18741965)
 - [Albert Edward Wilson (1885–1949)](#albert-edward-wilson-18851949)
 
-### Ralph Thomas (1840–1926)
+## Ralph Thomas (1840–1926)
 “Another authority who could easily have written a history which for its facts alone would probably have put anything I could write completely in the shade was Ralph Thomas, a London lawyer whose splendid collection of sheets of the Juvenile Drama is now to be seen in the Prints Department of the British Museum. It is the finest and most complete collection of its kind available to the public and contains specimens of the work of nearly all the leading publishers of "theatrical sheets" as they were called.
 
 [p. 14]
@@ -22,7 +22,7 @@ Thomas was an ardent collector of these sheets of scenes and characters. Writing
 
 It is to Thomas's contributions on the subject, ranging over a period from about 1869 to as recently as ten years ago, that I am greatly indebted for many of the facts contained in this book. Thomas had literary skill as well as a fund of knowledge about the Juvenile Drama, and he refers somewhere or other to the project for the completion of a history of it. It is a great pity that he never published it—if indeed he ever wrote it—because nowhere have I come upon one who knew more about the subject, who could discourse upon it with more interest, nor has there ever been one in his time who could have thrown more light upon the still obscure origin, early history and subsequent development of the toy theatre. In his day Thomas had known people like George Cruikshank, the artist, who had been actively connected with the business in its prime.“ (p. 14–15)
 
-### [Charles Blake Cochran](https://www.wikidata.org/wiki/Q5075284) (1872–1951) and [Aubrey Beardsley](https://www.wikidata.org/wiki/Q272566) (1872–1898)
+## [Charles Blake Cochran](https://www.wikidata.org/wiki/Q5075284) (1872–1951) and [Aubrey Beardsley](https://www.wikidata.org/wiki/Q272566) (1872–1898)
 Cochran, Charles B., ‘Foreword’, in _Penny Plain, Twopence Coloured_, p. 7–9.
 
 “Let me say at the outset that I am quite unqualified to write a foreword to this book. Beyond Stevenson's "A Penny Plain and Twopence Coloured" and occasional references to the virtues of toy theatres by bright young critics who find our contemporary stage a bore, my knowledge of the history of the Juvenile Drama is non-existent, or rather was until I read Mr Wilson's interesting and informative study. This book was obviously wanted to fill a gap in the literature of the drama and now that Mr Wilson has done it, one wonders why it was never done before.
@@ -61,7 +61,7 @@ In the main, I agree with Mr Wilson that the pleasure of the toy theatre was in 
 
 This book has cast for me an unsuspected glamour on my childish pastimes and will give pleasure to many like myself who did not realize they had played with gold and precious jewels unawares.“ (p. 7–9)
 
-### [Winston Churchill](https://www.wikidata.org/wiki/Q8016) (1874–1965)
+## [Winston Churchill](https://www.wikidata.org/wiki/Q8016) (1874–1965)
 “One of the most illustrious of those living who, in their youth, were devotees is Mr Winston Churchill. I had the curiosity to write to him on the matter and he was good enough to send me the following letter:
 
 Chartwell, Westerham, Kent
@@ -74,7 +74,7 @@ Yours truly,
 
 WINSTON CHURCHILL.“ (p. 26)
 
-### [Albert Edward Wilson](https://www.wikidata.org/wiki/Q109607173) (1885–1949)
+## [Albert Edward Wilson](https://www.wikidata.org/wiki/Q109607173) (1885–1949)
 “I handled these old prints fondly and reverently, nearly dropping a tear of sentiment upon them. They seemed to me to have the substance of a dream. They evoked in me a precious memory of distant childhood—my first experience of the drama in any form.
 
 The performance took place in a dank and cobwebby old cellar, the chief illumination of which, I remember, was a bull's eye lantern. I, the entire audience, sat expectantly upon [p. 19] an upturned ginger beer box, while my host, manager, and producer (aged thirteen years and many years my senior) staged for me a superb production of "The Miller and his Men," lavishing the entire pocket money for a week upon colza oil for the footlights and red fire in order to produce a really spectacular effect in the mill explosion scene which is the play's thrilling and overwhelming climax. Talk about a gala performance and a fascinated and appreciative audience! I was held rapt and enchanted by this truly magnificent drama.
