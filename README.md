@@ -15,12 +15,12 @@ The dataset contains three tables: “[Publishers](#publishers)”, “[Experien
   - the [relevant excerpts](excerpts4experiences-without-open-access.md) for the five experiences recorded in A. E. Wilson's _Penny Plain, Twopence Coloured: A History of the Juvenile Drama_ (1932), for which there is no open-access digitization.
 
 ## Purpose
-I put together this dataset when I was researching toy theatre in 2019 and 2020 for an article that was never published. I published it in September 2026 to enable Erica Haugtvedt to cite my analysis in her upcoming article on the same topic. I created the .ods and .csv files from a publicly accessible [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1Ql4zEN1TKlWFV1XpKA2CcUiN1Gr9kJI_HTawMMcodwU/edit?usp=sharing).
+I collected the data on a [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1Ql4zEN1TKlWFV1XpKA2CcUiN1Gr9kJI_HTawMMcodwU/edit?usp=sharing), now publicly accessible, when I was researching toy theatre in 2019 and 2020 for an article that was never published. I cleaned, updated, enriched, and published the dataset in September 2026 to enable Erica Haugtvedt to cite my analysis in her upcoming article on the same topic
 
-- The first and last tabs, about _publishers_ and _public collections_, expand on previous work, respectively published on a website no longer available online and in two 20th-century books.
-- The second tab contains my most original work, in which I collected a sample of 21 recorded Victorian _experiences_ of toy theatre in published articles and book chapters which have been digitized.
+- The data about _publishers_ and _public collections_ enriches previous work, published respectively on a website no longer available online and in two 20th-century books.
+- The sample of 21 recorded Victorian _experiences_ of toy theatre in published articles and book chapters which have been digitized enlarges previous ones. The associated table also contains my most original work.
 
-I researched the Victorians who had recorded these experiences to fill in the gaps of their narratives through biographical details. We now know when the experiences occurred as well as how old the subjects were both at the time and when they were reminiscing. I also analyzed the experiences described to start understanding how the Victorians who engaged in toy theatre conceived of their hobby.
+I researched the Victorians who had recorded these experiences to fill in the gaps of their narratives through biographical details. We now know when the experiences occurred as well as how old the subjects were both at the time and when they were reminiscing. I also analyzed the experiences described to start understanding how the Victorians who engaged with toy theatre conceived of their hobby.
 
 ## README
 The rest of this introduction functions as the README file for the three .csv files:
