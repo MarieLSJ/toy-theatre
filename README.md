@@ -1,7 +1,8 @@
 # Toy theatre dataset: its publishers, public collections, and the experiences of Victorians who engaged with it
-**By Marie Léger-St-Jean**
+**Marie Léger-St-Jean, created in May 2020**
 
-Created in May 2020, edited and published in September 2026
+Edited and published on Zenodo in September 2026:
+> Léger-St-Jean, Marie. “Toy theatre dataset: its publishers, public collections, and the experiences of Victorians who engaged with it”. Zenodo, 30 Sept. 2026, <https://doi.org/10.5281/zenodo.23088357>
 
 ## Contents ##
 The dataset contains three tables: “[Publishers](#publishers)”, “[Experiences](#experiences)”, and “[Public collections](#public-collections)”.
