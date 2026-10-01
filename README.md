@@ -152,6 +152,6 @@ The table expands on Appendix C in George Speaight's _Juvenile drama: The histor
 
 `URL`	URL linking to the specific named collection, or to the institution when there is no named collection (empty when I found no URL describing the collection)
 
-`Speaight (1946)`	Brief description provided by George Speaight in his Appendix C in _Juvenile drama: The history of the English toy theatre_ (London: MacDonald & Co, 1946), p. 247-248. https://n2t.net/ark:13960/t32284g97.
+`Speaight (1946)`	Brief description provided by George Speaight in his Appendix C in _Juvenile drama: The history of the English toy theatre_ (London: MacDonald & Co, 1946), p. 247-248. <https://archive.org/details/in.ernet.dli.2015.59081/>
 
-`Baldwin (1992)`	Brief description provided by Peter Baldwin in his appendix "Public collections of toy theatres and prints" in _Toy theatres of the world_ (London: Zwemmer, 1992), p. 171. https://books.google.ca/books?id=9VeFAAAAIAAJ.
+`Baldwin (1992)`	Brief description provided by Peter Baldwin in his appendix "Public collections of toy theatres and prints" in _Toy theatres of the world_ (London: Zwemmer, 1992), p. 171. <https://books.google.ca/books?id=9VeFAAAAIAAJ>
