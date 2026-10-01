@@ -11,7 +11,7 @@ The dataset contains three tables: “[Publishers](#publishers)”, “[Experien
   - combined in an [OpenDocument Spreadsheet (.ods) file](Toy_theatre.ods) which incorporates its own README tab.
 - They are accompanied by:
   - my analysis of the “Experiences” sample, “[Toy theatre casting Victorian boys as theatre managers](MarieLSJ_-_2026_-_Toy_theatre_casting_Victorian_boys_as_theatre_managers.pdf)”; and
-  - the [relevant excerpts](toy-theatre-experiences-without-open-access.md) for the five experiences recorded in A. E. Wilson's _Penny Plain, Twopence Coloured: A History of the Juvenile Drama_ (1932), for which there is no open-access digitization.
+  - the [relevant excerpts](excerpts4experiences-without-open-access.md) for the five experiences recorded in A. E. Wilson's _Penny Plain, Twopence Coloured: A History of the Juvenile Drama_ (1932), for which there is no open-access digitization.
 
 ## Purpose
 I put together this dataset when I was researching toy theatre in 2019 and 2020 for an article that was never published. I published it in September 2026 to enable Erica Haugtvedt to cite my analysis in her upcoming article on the same topic. I created the .ods and .csv files from a publicly accessible [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1Ql4zEN1TKlWFV1XpKA2CcUiN1Gr9kJI_HTawMMcodwU/edit?usp=sharing).
@@ -126,7 +126,7 @@ These six columns indicate with an "x" if a specific topic is mentioned in the r
 
 `Pages`	Page range of the publication in the periodical or the book
 
-`URL`	Freely accessible URL for the publication (in five cases, it refers to [toy-theatre-experiences-without-open-access.md](toy-theatre-experiences-without-open-access.md))
+`URL`	Freely accessible URL for the publication (in five cases, it refers to [excerpts4experiences-without-open-access.md](excerpts4experiences-without-open-access.md))
 
 `Digital Archive`	Online archive which holds a digital surrogate of the publication (only the one from `URL` when there are more than one)
 
